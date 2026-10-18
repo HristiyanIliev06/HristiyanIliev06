@@ -9,8 +9,8 @@ I build full-stack web apps with **Python and Django**, and I'm looking for a **
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**PetOasis**](https://github.com/HristiyanIliev06/Pet-Oasis) | Pet hotel / pet caretaking platform, built twice: in Django and in ASP.NET MVC | Django, PostgreSQL, C# |
-| [**Rent-a-Car**](https://github.com/Vandertongg/RentaCar) | Car rental web app with booking logic. **Team project, my part: built the booking module end-to-end (model, service, controller, and approval/rejection views), plus contributed to the Car and User models and ASP.NET Identity integration** | C#, ASP.NET MVC, SQL |
+| [**PetOasis**](https://github.com/HristiyanIliev06/Pet-Oasis) | Pet hotel / pet caretaking platform | Django, PostgreSQL|
+| [**RentaCar**](https://github.com/Vandertongg/RentaCar) | Car rental web app with booking logic. **Team project, my part: built the booking module end-to-end (model, service, controller, and approval/rejection views), plus contributed to the Car and User models and ASP.NET Identity integration** | C#, ASP.NET MVC, SQL |
 
 ## 🧰 Tech Stack
 
